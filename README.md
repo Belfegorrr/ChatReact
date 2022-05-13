@@ -7,5 +7,3 @@ Finalidade de enviar: Fotos, Reclamações, Comentários, Feedback.
 Ultilizando: Express, Prisma, Insomnia, Typescript, Tailwind.css, React, Expo, SSAS, Headless(Popover), Fluxo SPA.
 
 ```
-
-Não finalizado
