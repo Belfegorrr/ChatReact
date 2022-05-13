@@ -1,7 +1,11 @@
-# ChatReact
-Chat Online React
+## FeedBack (RocketSeat)
+Feedback/React
 
-Funcionalidade de Chat com base em Typescript/React//
-Finalidade de: enviar fotos, reclamações, feedback//
+Funcionalidade de Chat/Feedback com base em Typescript.
+```
+Finalidade de enviar: Fotos, Reclamações, Comentários, Feedback.
+Ultilizando: Express, Prisma, Insomnia, Typescript, Tailwind.css, React, Expo, SSAS, Headless(Popover), Fluxo SPA.
+
+```
 
 Não finalizado
